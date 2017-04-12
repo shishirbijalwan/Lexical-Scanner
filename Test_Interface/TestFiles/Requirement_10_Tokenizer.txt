@@ -1,0 +1,4 @@
+"This has \"Something\" special"
+'\''
+"Two escalpe characters make it worthless\\"
+""

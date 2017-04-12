@@ -1,0 +1,4 @@
+string name ="shishir";
+string name1 ="shi\"s\"hir";
+string name2 ='shishir';
+string name3 ='shi\'s\'hir';

@@ -1,0 +1,8 @@
+for(int i=0;i<5;i++)
+return abc;
+for (Vector vec : stringVec){
+string abc;}
+for (Vector vec : stringVec)
+string abc;
+for(;;){}
+#endif
